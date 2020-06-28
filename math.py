@@ -1,6 +1,10 @@
 a=5
 b=4
-
+#addition
 print(a+b)
-
+#subtraction
 print(a-b)
+#multiplication
+print(a*b)
+#division
+print(a/b)
